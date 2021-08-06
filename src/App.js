@@ -78,6 +78,8 @@ function App() {
   };
   const removeAll = () => {
     setList([]);
+    setName("");
+    setIsEditing(false);
   };
 
   const alertShow = (show = false, title = "", color = "") => {
