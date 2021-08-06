@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Grocery-Bud-React/static/css/main.6e78a85f.chunk.css",
-    "main.js": "/Grocery-Bud-React/static/js/main.9646080e.chunk.js",
-    "main.js.map": "/Grocery-Bud-React/static/js/main.9646080e.chunk.js.map",
+    "main.js": "/Grocery-Bud-React/static/js/main.cf5d01dd.chunk.js",
+    "main.js.map": "/Grocery-Bud-React/static/js/main.cf5d01dd.chunk.js.map",
     "runtime-main.js": "/Grocery-Bud-React/static/js/runtime-main.e37b9734.js",
     "runtime-main.js.map": "/Grocery-Bud-React/static/js/runtime-main.e37b9734.js.map",
     "static/js/2.cf92d80f.chunk.js": "/Grocery-Bud-React/static/js/2.cf92d80f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e37b9734.js",
     "static/js/2.cf92d80f.chunk.js",
     "static/css/main.6e78a85f.chunk.css",
-    "static/js/main.9646080e.chunk.js"
+    "static/js/main.cf5d01dd.chunk.js"
   ]
 }
